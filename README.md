@@ -1,6 +1,6 @@
 # flutter_budget_ui
 
-A new Flutter project for budget app UI.
+A new Flutter project.
 
 ## Getting Started
 
